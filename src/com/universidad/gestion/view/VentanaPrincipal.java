@@ -22,7 +22,7 @@ public class VentanaPrincipal extends JFrame {
 
     public VentanaPrincipal() {
         // --- CONFIGURACIÓN BÁSICA DE LA VENTANA ---
-        setTitle("Sistema de Gestión de Contactos - Gabriel Monteros - UPS");
+        setTitle("Sistema de Gestión de Contactos - CRISTHIAN MARTINEZ - UPS");
         setSize(1000, 750); // Tamaño ajustado para mejor visibilidad
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLocationRelativeTo(null);
